@@ -1,18 +1,18 @@
 [GENERATED OBJECT FILE]
 b__ejercicio3.o
 [PROJECT FILES]
-/home/alex/Escritorio/STR/practica1.gpr
-20240916071844 4a74b4f0cce8ade5344ab45508963c1a
+/home/alex/Escritorio/STR/prac1/proyecto/practica1.gpr
+20240916102913 8c7e0fd22c75e7b9f52e2f175cdd0fb8
 [BOUND OBJECT FILES]
-/home/alex/Escritorio/STR/obj/pkg_ejercicio2.o
-/home/alex/Escritorio/STR/obj/ejercicio3.o
+/home/alex/Escritorio/STR/prac1/proyecto/obj/pkg_ejercicio2.o
+/home/alex/Escritorio/STR/prac1/proyecto/obj/ejercicio3.o
 [GENERATED SOURCE FILES]
 b__ejercicio3.ads
 b__ejercicio3.adb
 b__ejercicio3.ali
 [RESULTING OPTIONS]
--L/home/alex/Escritorio/STR/obj/
--L/home/alex/Escritorio/STR/obj/
+-L/home/alex/Escritorio/STR/prac1/proyecto/obj/
+-L/home/alex/Escritorio/STR/prac1/proyecto/obj/
 -L/home/alex/opt/GNAT/2021/app/lib/gcc/x86_64-pc-linux-gnu/10.3.1/adalib/
 -static
 -static-libgcc

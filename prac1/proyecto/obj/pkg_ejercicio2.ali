@@ -31,8 +31,8 @@ D a-textio.ads		20210520051129 aef4d56d ada.text_io%s
 D a-unccon.ads		20210520051129 0e9b276f ada.unchecked_conversion%s
 D interfac.ads		20210520051131 edec285f interfaces%s
 D i-cstrea.ads		20210520051131 e53d8b8e interfaces.c_streams%s
-D pkg_ejercicio2.ads	20240916075608 ee852cf7 pkg_ejercicio2%s
-D pkg_ejercicio2.adb	20240916075608 b963e2c9 pkg_ejercicio2%b
+D pkg_ejercicio2.ads	20240916102913 ee852cf7 pkg_ejercicio2%s
+D pkg_ejercicio2.adb	20240916102913 b963e2c9 pkg_ejercicio2%b
 D system.ads		20210520051134 a2da961d system%s
 D s-crtl.ads		20210520051131 0ebbdb71 system.crtl%s
 D s-exctab.ads		20210520051131 54135002 system.exception_table%s

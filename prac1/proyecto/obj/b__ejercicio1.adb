@@ -247,10 +247,10 @@ package body ada_main is
    end;
 
 --  BEGIN Object file/option list
-   --   /home/alex/Escritorio/STR/obj/pkg_ejercicio2.o
-   --   /home/alex/Escritorio/STR/obj/ejercicio1.o
-   --   -L/home/alex/Escritorio/STR/obj/
-   --   -L/home/alex/Escritorio/STR/obj/
+   --   /home/alex/Escritorio/STR/prac1/proyecto/obj/pkg_ejercicio2.o
+   --   /home/alex/Escritorio/STR/prac1/proyecto/obj/ejercicio1.o
+   --   -L/home/alex/Escritorio/STR/prac1/proyecto/obj/
+   --   -L/home/alex/Escritorio/STR/prac1/proyecto/obj/
    --   -L/home/alex/opt/GNAT/2021/app/lib/gcc/x86_64-pc-linux-gnu/10.3.1/adalib/
    --   -static
    --   -lgnat

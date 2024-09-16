@@ -1,12 +1,11 @@
 <?xml version="1.0"?>
 <Locations >
-  <Project>
-    <vfs_file>/home/alex/Escritorio/STR/prac1/proyecto/practica1.gpr</vfs_file>
-    <file_marker column=" 13" line=" 31" >
+  <Project >
+    <file_marker column=" 1" line=" 1" >
       <vfs_project>/home/alex/Escritorio/STR/prac1/proyecto/practica1.gpr</vfs_project>
       <vfs_file>/home/alex/Escritorio/STR/prac1/proyecto/src/ejercicio3.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 13" line=" 16" >
+    <file_marker column=" 1" line=" 1" >
       <vfs_project>/home/alex/Escritorio/STR/prac1/proyecto/practica1.gpr</vfs_project>
       <vfs_file>/home/alex/Escritorio/STR/prac1/proyecto/src/ejercicio1.adb</vfs_file>
     </file_marker>
