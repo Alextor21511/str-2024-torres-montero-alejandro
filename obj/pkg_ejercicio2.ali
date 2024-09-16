@@ -11,10 +11,10 @@ RV NO_DYNAMIC_SIZED_OBJECTS
 RV NO_IMPLEMENTATION_PRAGMAS
 RV NO_IMPLICIT_LOOPS
 
-U pkg_ejercicio2%b	pkg_ejercicio2.adb	0bc71bb8 NE OO PK IL
+U pkg_ejercicio2%b	pkg_ejercicio2.adb	57e6ce3e NE OO PK IL
 Z ada.strings.text_buffers%s  a-sttebu.adb	a-sttebu.ali
 
-U pkg_ejercicio2%s	pkg_ejercicio2.ads	861d3aac EE NE OO PK IL
+U pkg_ejercicio2%s	pkg_ejercicio2.ads	4071f99a EE NE OO PK IL
 W ada%s			ada.ads			ada.ali
 Z ada.strings.text_buffers%s  a-sttebu.adb	a-sttebu.ali
 W ada.text_io%s		a-textio.adb		a-textio.ali
@@ -31,8 +31,8 @@ D a-textio.ads		20210520051129 aef4d56d ada.text_io%s
 D a-unccon.ads		20210520051129 0e9b276f ada.unchecked_conversion%s
 D interfac.ads		20210520051131 edec285f interfaces%s
 D i-cstrea.ads		20210520051131 e53d8b8e interfaces.c_streams%s
-D pkg_ejercicio2.ads	20240916071845 28e9efc1 pkg_ejercicio2%s
-D pkg_ejercicio2.adb	20240916071409 232ef479 pkg_ejercicio2%b
+D pkg_ejercicio2.ads	20240916075608 ee852cf7 pkg_ejercicio2%s
+D pkg_ejercicio2.adb	20240916075608 b963e2c9 pkg_ejercicio2%b
 D system.ads		20210520051134 a2da961d system%s
 D s-crtl.ads		20210520051131 0ebbdb71 system.crtl%s
 D s-exctab.ads		20210520051131 54135002 system.exception_table%s
@@ -51,13 +51,14 @@ D s-wchcon.ads		20210520051134 1b7d22d2 system.wch_con%s
 D unchconv.ads		20210520051134 ca2f9e18 unchecked_conversion%s
 G a e
 G c Z s b [otromensaje pkg_ejercicio2 6 14 none]
+G c Z s b [getnotamedia pkg_ejercicio2 9 13 none]
 X 1 ada.ads
 16K9*Ada 20e8 13|1r6 2r5
 X 9 a-textio.ads
 58K13*Text_IO 725e16 13|1w10 2r9
 506U14*Put_Line 14|5s7
 X 13 pkg_ejercicio2.ads
-4K9*pkg_ejercicio2 10E4 12l5 12e19 14|1b14 8l5 8t19
+4K9*pkg_ejercicio2 11E4 13l5 13e19 14|1b14 13l5 13t19
 6U14*otroMensaje 14|3b14 6l8 6t19
 7E9*TdiasSemana 7e84
 7n25*Lunes{7E9}
@@ -68,5 +69,6 @@ X 13 pkg_ejercicio2.ads
 7n68*Sabado{7E9}
 7n76*Domingo{7E9}
 8i4*numAlumnos{integer}
-10f4 notaMedia{float}
+9V13*getNotaMedia{float} 14|8b13 11l8 11t20
+11f4 notaMedia{float} 14|10r14
 

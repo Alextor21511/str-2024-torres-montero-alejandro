@@ -6,7 +6,7 @@ package pkg_ejercicio2 is
    procedure otroMensaje;
    type TdiasSemana is (Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo);
    numAlumnos : Integer := 16;
-   procedure getNotaMedia;
+   function getNotaMedia return Float;
 private
    notaMedia : Float := 5.69;
 

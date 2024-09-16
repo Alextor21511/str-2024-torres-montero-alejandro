@@ -5,7 +5,7 @@ package body pkg_ejercicio2 is
       Put_Line("Vamos a iniciarnos en el lenguaje Ada");
    end otroMensaje;
    
-   procedure getNotaMedia is
+   function getNotaMedia return Float is
    begin
       return notaMedia;
    end getNotaMedia;
